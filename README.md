@@ -4,7 +4,9 @@
 
 A responsive news page announcing the world's first Virtual Reality Cricket League, featuring key details and player information.
 
-[Live Demo](https://souravkumaryadav.github.io/News-Page/)
+## 🚀 Live Demo  
+👉 [Click here to view the live site](https://souravkumaryadav.github.io/News-Page/)
+
 
 ## Technologies Used
 - **Frontend**: HTML5, CSS3
